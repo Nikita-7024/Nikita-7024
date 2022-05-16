@@ -10,5 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MERN stack
 - 💬 Ask me about JavaScript, NOde.JS, MONgo-Db, Express.JS
 - 📫 How to reach me: nikitasingh.nik22@gmail.com
+- :) pronouns me: she/her
 - ⚡ Exploring: web3 and Ecommerce
+- @)fun fact: I spend almost 12 hours listening songs everyday 
 -->
