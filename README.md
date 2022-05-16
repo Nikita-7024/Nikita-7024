@@ -1,4 +1,4 @@
-[![MasterHead](2wCEAAkGBxMUExYUFBQWFxYYGRoZGRgZGRkeHhscGxsZGRkZHhoZICkhHhwnHhkYIzIiJi4sMC8vGCA1OjUuOSkuLywBCgoKDg0OGxAQHC4nISYxLiwsNC4uLi4vLi4uLi4xLi40Li4wLi4wMC4wLi4wLi4uLiwuMC4uLi4uLi4uLi4uLv)]
+[![MasterHead](https://www.techdigitalworld.com/images/new/Web-Development-Company.png)]
 <h1 align="center">Hi 👋, I'm Nikita Singh</h1>
 <h3 align="center">A passionate backend web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.perfectlancer.com/blog/wp-content/uploads/2020/12/4709729-1024x1024.jpg">
