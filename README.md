@@ -1,4 +1,4 @@
-[![MasterHead](https://www.techdigitalworld.com/images/new/Web-Development-Company.png)]
+![MasterHead](https://www.techdigitalworld.com/images/new/Web-Development-Company.png)
 <h1 align="center">Hi 👋, I'm Nikita Singh</h1>
 <h3 align="center">A passionate backend web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.perfectlancer.com/blog/wp-content/uploads/2020/12/4709729-1024x1024.jpg">
