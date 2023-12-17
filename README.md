@@ -7,17 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently get trained by **Function-UP**
-
-- 🌱 I’m currently learning **JavaScript, Node.JS, MOngo-DB,Expess.JS**
-
+- 🔭 I’m currently Working as Associate Node JS Developer at **WeAddo**
+- 🔭 I have completed or certified Internship as a WEB Developer at **Function Up**
+- 🌱 I have Expertise of **JavaScript, Node.JS, MOngo-DB,Expess.JS, JQuery, Ajax, Html and CSS, TypeScript, Redis, AWS, Postman, Git**
 - 👨‍💻 All of my projects are available at [https://github.com/Nikita-7024](https://github.com/Nikita-7024)
-
-- 💬 Ask me about **JavaScript, Nodejs, mongodb**
-
-- 📫 How to reach me **nikitasingh.nik22@gmail.com**
-
-- ⚡ Fun fact **I spend almost 12 hours listening songs everyday**
+- 💬 Ask me about **JavaScript, Node.JS, MOngo-DB,Expess.JS, JQuery, Ajax, Html and CSS, TypeScript, Redis, AWS, Postman, Git**
+- 📫 How to reach me **singh.nikita1799@gmail.com**
+- ⚡ Fun fact **I can spend almost 12 hours listening songs everyday**
+- ⚡ Strength **I am capable to learn new technologies at less time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
