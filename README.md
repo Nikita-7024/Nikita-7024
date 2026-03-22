@@ -1,18 +1,19 @@
 ![MasterHead](https://www.techdigitalworld.com/images/new/Web-Development-Company.png)
 <h1 align="center">Hi 👋, I'm Nikita Singh</h1>
-<h3 align="center">A passionate backend web developer from India</h3>
+<h3 align="center">A passionate Fullstack developer with React + Node from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.perfectlancer.com/blog/wp-content/uploads/2020/12/4709729-1024x1024.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita-7024&label=Profile%20views&color=0e75b6&style=flat" alt="nikita-7024" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Working as Node JS Developer at **WeAddo**
+- 🔭 I’m currently Working as Fullstack Developer at **Deloitte**
+- - 🔭 Previously I was Working as Fullstack Developer at **Weaddo**
 - 🔭 I have completed or certified Internship as a WEB Developer at **Function Up**
-- 🌱 I have Expertise of **JavaScript, Node.JS, Mongo-DB,Expess.JS, React.JS, JQuery, Ajax, Html and CSS, TypeScript, Redis, AWS, Postman, Git**
+- 🌱 I have Expertise of **JavaScript, Node.JS, Mongo-DB,Expess.JS, React.JS, SQL, Typescript, GraphQl, JQuery, Ajax, Html and CSS, TypeScript, Redis, AWS, Postman, Git**
 - 👨‍💻 All of my projects are available at [https://github.com/Nikita-7024](https://github.com/Nikita-7024)
-- 💬 Ask me about **JavaScript, Node.JS, MOngo-DB,Expess.JS,React.JS, JQuery, Ajax, Html and CSS, TypeScript, Redis, AWS, Postman, Git**
-- 📫 How to reach me **singh.nikita1799@gmail.com**
+- 💬 Ask me about **JavaScript, Node.JS, MOngo-DB,Expess.JS,React.JS, Typescript, GraphQl, SQL, JQuery, Ajax, Html and CSS, TypeScript, Redis, AWS, Postman, Git**
+- 📫 How to reach me **nikita03.sing@gmail.com**
 - ⚡ Fun fact **I can spend almost 4 to 6 hours listening songs everyday and love sketching to relax my mind**
 - ⚡ Strength **I am capable to learn new technologies at less time**
 
