@@ -16,7 +16,7 @@
 
 Backend-focused Full Stack Developer with **3.9 years of experience** building scalable, production-grade systems. Currently at **Deloitte**, developing enterprise clinical data platforms for **Eli Lilly & Company** (pharmaceutical) using Node.js, TypeScript, and AWS Neptune DB (Graph Database).
 
-Previously at **WeAddo**, delivered 6 production platforms across healthcare, e-commerce, EdTech, real estate, and hospitality — built end-to-end from scratch.
+Previously at **WeAddo**, delivered 10+ production platforms across healthcare, e-commerce, EdTech, real estate, and hospitality — built end-to-end from scratch.
 
 - 🏢 Currently: **Full Stack Developer @ Deloitte** (Eli Lilly — Pharma Client)
 - 🌍 Goal: Senior Engineering role in **Europe** (open to visa sponsorship)
