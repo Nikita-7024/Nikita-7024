@@ -19,9 +19,9 @@ Backend-focused Full Stack Developer with **3.9 years of experience** building s
 Previously at **WeAddo**, delivered 10+ production platforms across healthcare, e-commerce, EdTech, real estate, and hospitality — built end-to-end from scratch.
 
 - 🏢 Currently: **Full Stack Developer @ Deloitte** (Eli Lilly — Pharma Client)
-- 🌍 Goal: Senior Engineering role in **Europe** (open to visa sponsorship)
+- 🌍 Goal: Senior Engineering role in **India** and **Europe** (open to visa sponsorship)
 - 🔭 Building: AI-powered developer tools
-- 💬 Ask me about: Node.js · TypeScript · System Design · Microservices · Redis · AWS
+- 💬 Ask me about: Node.js · TypeScript · System Design · Microservices · Redis · AWS 
 
 ---
 
