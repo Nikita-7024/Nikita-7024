@@ -71,7 +71,7 @@ Previously at **WeAddo**, delivered 10+ production platforms across healthcare, 
 <div align="center">
 
 ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikita-7024&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nikita-7024&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nikita-7024&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
